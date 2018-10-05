@@ -69,5 +69,4 @@
 11. Click on the “Connect” Button in the popup
 12. Continue running the rest of the services in the specified order
 13. git clone front end 
-14. Install Redux with the following command: “yarn add redux axios” 
 15. Run frontend with: type “yarn” on the project folder, type “yarn start” 
